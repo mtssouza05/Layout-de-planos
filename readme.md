@@ -1,0 +1,5 @@
+ -Layout genérico de uma página de compra de planos, muito comum em diversos sites.
+ -Esse layout está na configuração para aparelhos móveis de pequeno porte. Ex:Iphone, Galaxy, etc.
+ -Pode ser facilmente alterado para um layout de uma tela de computador ou aparelho móvel maior utilizando o media queries.
+ -Não ativei o media queries nesse arquivo por um erro estranho que está dando no meu computador quando uso esse recurso. Mas esse layout é facilmente adaptado.
+ -Faz parte dos Minis Projetos que estou desenvolvendo no meu aprendizado no curso The Web Developer 2022.
